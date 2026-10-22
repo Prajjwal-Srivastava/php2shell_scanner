@@ -207,7 +207,7 @@ This tool is for systems you own or have **written permission** to assess. It is
 non-destructive by design, but unauthorized scanning may still be illegal in
 your jurisdiction. Running it does not create authorization, and a `VULNERABLE`
 verdict is not permission to exploit anything. If you find an affected host that
-is not yours, report it to the operator or the relevant CERT — do not attempt to
+is not yours, report it to the operator or the relevant security team — do not attempt to
 prove RCE on production infrastructure.
 
 The author accepts no liability for misuse or for damage caused by third-party
