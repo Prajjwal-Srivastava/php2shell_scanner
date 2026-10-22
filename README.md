@@ -213,6 +213,6 @@ prove RCE on production infrastructure.
 The author accepts no liability for misuse or for damage caused by third-party
 modifications.
 
-## License
+## Contributor
 
-MIT. Add a `LICENSE` file before publishing if you want it to be explicit.
+Prajjwal Srivastava
